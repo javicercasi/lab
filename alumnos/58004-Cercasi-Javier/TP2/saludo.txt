@@ -1,0 +1,1 @@
+La SDD es un tipo de almacenamiento de datos no volatil

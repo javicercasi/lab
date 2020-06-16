@@ -149,7 +149,7 @@ if __name__ == '__main__':
     parser.add_argument('-f', '--file', metavar='FILE', type=str,
                         help="archivo a procesar")
     args = parser.parse_args()
-    #args.size += 10
+    # args.size += 10
 
     try:
         if not args.file:
