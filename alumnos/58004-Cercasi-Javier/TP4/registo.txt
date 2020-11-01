@@ -1,0 +1,20 @@
+Direccion: ('::1', 43116, 0, 0) Fecha de acceso: 28/10/20, 22:51:58
+Direccion: ('127.0.0.1', 50566) Fecha de acceso: 28/10/20, 22:52:00
+Direccion: ('127.0.0.1', 50570) Fecha de acceso: 28/10/20, 22:52:01
+Direccion: ('127.0.0.1', 50576) Fecha de acceso: 28/10/20, 22:52:09
+Direccion: ('::1', 43136, 0, 0) Fecha de acceso: 28/10/20, 22:52:18
+Direccion: ('::1', 43140, 0, 0) Fecha de acceso: 28/10/20, 22:52:18
+Direccion: ('::1', 43144, 0, 0) Fecha de acceso: 28/10/20, 22:52:18
+Direccion: ('::1', 43146, 0, 0) Fecha de acceso: 28/10/20, 22:52:19
+Direccion: ('::1', 43150, 0, 0) Fecha de acceso: 28/10/20, 22:52:19
+Direccion: ('::1', 43154, 0, 0) Fecha de acceso: 28/10/20, 22:52:19
+Direccion: ('::1', 43158, 0, 0) Fecha de acceso: 28/10/20, 22:52:19
+Direccion: ('::1', 43162, 0, 0) Fecha de acceso: 28/10/20, 22:52:19
+Direccion: ('127.0.0.1', 50578) Fecha de acceso: 28/10/20, 22:52:20
+Direccion: ('127.0.0.1', 50612) Fecha de acceso: 28/10/20, 22:52:21
+Direccion: ('127.0.0.1', 50616) Fecha de acceso: 28/10/20, 22:52:22
+Direccion: ('127.0.0.1', 50622) Fecha de acceso: 28/10/20, 22:52:43
+Direccion: ('127.0.0.1', 50624) Fecha de acceso: 28/10/20, 22:52:51
+Direccion: ('127.0.0.1', 50626) Fecha de acceso: 28/10/20, 22:53:03
+Direccion: ('::1', 43186, 0, 0) Fecha de acceso: 28/10/20, 22:53:17
+Direccion: ('127.0.0.1', 50628) Fecha de acceso: 28/10/20, 22:53:26
